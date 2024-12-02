@@ -1,0 +1,5 @@
+﻿  daw.cpp
+  gui.cpp
+C:\Users\zs\Downloads\ApfelDAW-main\ApfelDAW\daw.cpp(2,10): error C1083: Impossible d'ouvrir le fichier include : 'sndfile.h' : No such file or directory
+  main.cpp
+  trackeditor.cpp
